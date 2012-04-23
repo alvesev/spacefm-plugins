@@ -1,0 +1,22 @@
+This is set of plugins for file manager SpaceFM.
+
+SpaceFM is fork of PCManFM but with flexibility, great ability to add
+custom user actions and attach external utilities for dealing with
+files.
+
+http://ignorantguru.github.com/spacefm/
+https://github.com/IgnorantGuru/spacefm/wiki/Plugins
+
+Copyright and License Information:
+    This plugin set is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This plugin set is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this script. If not, see <http://www.gnu.org/licenses/>.
