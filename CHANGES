@@ -1,5 +1,20 @@
+Check sum
+---------
+2012-05-15
+    * Icon added.
+________________________________________________________________________
+
 Compare by content
 ------------------
-
+2012-05-15
+    * Icon added.
 2012-04-23
-Drop of directory names refactored to be not a fatal.
+    * Drop of directory names made to be not a fatal.
+________________________________________________________________________
+
+Synchronize directories
+-----------------------
+2012-05-15
+    * Refactored collecting of directory names from panels: if no
+      directories are selected, pickup current directory.
+    * Icon added.
