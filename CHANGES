@@ -14,6 +14,11 @@ ________________________________________________________________________
 
 Synchronize directories
 -----------------------
+2012-05-16
+    * Changed logic of panels traversal while collecting directories
+      names. First are selected names, then current directories of
+      visible panels.
+
 2012-05-15
     * Refactored collecting of directory names from panels: if no
       directories are selected, pickup current directory.
