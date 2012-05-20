@@ -23,3 +23,9 @@ Synchronize directories
     * Refactored collecting of directory names from panels: if no
       directories are selected, pickup current directory.
     * Icon added.
+________________________________________________________________________
+
+Multi rename
+------------
+2012-05-20
+    * Released.
